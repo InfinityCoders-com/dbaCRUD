@@ -1,2 +1,4 @@
-# dbaCRUD
-Database CRUD ops UI
+# Database CRUD
+## Database CreateReadUpdateDelete operation UI.
+
+A Complete UI to handle complete Local/Remote database.
