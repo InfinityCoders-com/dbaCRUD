@@ -1,0 +1,6 @@
+#sidenav{
+    height: 100vh;
+    width: 30vw;
+    resize: both;
+    overflow: auto;
+}
